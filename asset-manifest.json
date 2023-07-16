@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.73ff7ccf.css",
+    "main.js": "/portfolio/static/js/main.ddcb0987.js",
+    "static/media/news.png": "/portfolio/static/media/news.c744337c38b7d4aa3589.png",
+    "static/media/woof.png": "/portfolio/static/media/woof.f0d1aff22c3eae806ea3.png",
+    "static/media/home.png": "/portfolio/static/media/home.610b9c792be07982b665.png",
+    "static/media/yt.png": "/portfolio/static/media/yt.dfff0190f216a1ddfc09.png",
+    "static/media/gpt.png": "/portfolio/static/media/gpt.e13240ec1a85c5048927.png",
+    "static/media/leet.png": "/portfolio/static/media/leet.edc3055f46eb126058ec.png",
+    "static/media/py.png": "/portfolio/static/media/py.ebddd128d5f6b9659464.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.9ee9755b83ae8c84e864.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/S1.png": "/portfolio/static/media/S1.233f9eb6dd9d6447641d.png",
+    "index.html": "/portfolio/index.html",
+    "main.73ff7ccf.css.map": "/portfolio/static/css/main.73ff7ccf.css.map",
+    "main.ddcb0987.js.map": "/portfolio/static/js/main.ddcb0987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73ff7ccf.css",
+    "static/js/main.ddcb0987.js"
+  ]
+}
